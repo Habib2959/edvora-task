@@ -1,0 +1,50 @@
+.custom-card {
+    margin: 0px 7.5px;
+    height: 250px;
+    background: #232323;
+    border-radius: 4.68775px;
+    color: #fff;
+    padding: 15px;
+}
+.slick-slider{
+    padding: 30px 25px;
+    background: #131313;
+    border-radius: 15px;
+}
+.brand-title{
+    font-size:20px;
+    color: #fff;
+    border-bottom: 1px solid rgba(203, 203, 203, 0.5);
+    padding-bottom: 15px;
+    margin: 30px 0px;
+}
+
+.profile-image {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+
+.details {
+    margin-bottom: 2px !important;
+}
+
+.product_name {
+    font-size: 15px;
+}
+.product_brand {
+    color: #FFFFFF99;
+    font-size: 13px;
+}
+.product_price span{
+    color: #FFFFFFCC;
+    font-size: 15px;
+}
+.product_price {
+    font-size: 13px;
+}
+.product_description{
+    color: #FFFFFF99;
+    font-size: 11px;
+    margin-top: 5px;
+}
